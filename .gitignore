@@ -1,0 +1,6 @@
+.idea/
+*.log
+__pycache__/
+databases/bot.db
+venv/
+*.db
